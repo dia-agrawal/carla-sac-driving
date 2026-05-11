@@ -2,6 +2,8 @@
 
 Reinforcement learning agent for autonomous driving in the [CARLA simulator](https://carla.org/), trained with **Soft Actor-Critic (SAC)** using PyTorch.
 
+Note: Claude isn't used in contribution to the code but chatgpt was used time to time to debug my code. I tested claude for the first time and had it push my code for me. 
+
 ## Overview
 
 This project implements a custom [Gymnasium](https://gymnasium.farama.org/) environment wrapping CARLA 0.9.16, paired with a SAC agent that learns to follow a planned route while avoiding collisions.
