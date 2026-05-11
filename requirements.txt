@@ -1,0 +1,7 @@
+torch>=2.0.0
+gymnasium>=0.29.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+huggingface_hub>=1.0.0
+# carla must be installed manually from CARLA_0.9.16/PythonAPI/carla/dist/
+# pip install CARLA_0.9.16/PythonAPI/carla/dist/carla-0.9.16-cp3x-cp3x-linux_x86_64.whl
