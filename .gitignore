@@ -1,0 +1,18 @@
+# CARLA binaries (too large for git)
+CARLA_0.9.16/
+AdditionalMaps_0.9.16*/
+
+# Model checkpoints and replay buffers
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data logs
+pose_log.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
